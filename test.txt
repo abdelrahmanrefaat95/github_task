@@ -1,3 +1,1 @@
-this is the beginning of file on master branch
-line on branch feature 2
- this is first line after commit to remote 
+this is edit 1
