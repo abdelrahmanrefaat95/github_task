@@ -1,1 +1,2 @@
 this is the beginning of file on master branch
+line on branch feature 2
